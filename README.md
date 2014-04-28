@@ -1,8 +1,4 @@
-tecnologiagrafica-book
-======================
+Tecnología Gráfica en Español
+=============================
 
-## About:
-
-Book about graphic technology in Spanish.
-
-Libro sobre tecnología gráfica en español.
+Este libro tiene como objetivo exponer los fundamentos científicos y tecnológicos que hacen a la industria gráfica en el presente.

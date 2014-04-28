@@ -1,0 +1,3 @@
+# Serigrafía
+
+Algo aquí.

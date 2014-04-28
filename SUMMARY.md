@@ -25,5 +25,3 @@
   * [Pre-prensa](digital/pre-prensa.md)
   * [Impresión](digital/impresion.md)
 * [Terminación](terminacion/README.md)
-  * [Pre-prensa](terminacion/pre-prensa.md)
-  * [Impresión](terminacion/impresion.md)

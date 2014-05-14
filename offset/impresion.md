@@ -1,3 +1,4 @@
-# Impresión Digital
+# Impresión Offset
+## Impresión
 
 Algo aquí.

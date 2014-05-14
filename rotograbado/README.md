@@ -1,3 +1,3 @@
-# Rotograbado
+# Rotograbado / Huecograbado
 
 Algo aquí.

@@ -1,3 +1,4 @@
-# Impresión Digital
+# Serigrafía
+## Pre-prensa
 
 Algo aquí.

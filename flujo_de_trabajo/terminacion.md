@@ -1,5 +1,5 @@
 # Flujo de trabajo
 
-## Impresión
+## Terminación
 
 Algo aquí.

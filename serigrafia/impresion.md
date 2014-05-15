@@ -1,4 +1,5 @@
 # Serigrafía
+
 ## Impresión
 
 Algo aquí.

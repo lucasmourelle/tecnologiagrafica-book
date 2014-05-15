@@ -9,6 +9,7 @@
 * [Autotipía](autotipia/README.md)
   * [Amplitud Modulada](autotipia/amplitud_modulada.md)
   * [Frecuencia Modulada](autotipia/frecuencia_modulada.md)
+  * [Mixtas](autotipia/mixtas.md)
 * [Flexografía](flexografia/README.md)
   * [Pre-prensa](flexografia/pre-prensa.md)
   * [Impresión](flexografia/impresion.md)

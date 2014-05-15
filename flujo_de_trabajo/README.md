@@ -1,4 +1,5 @@
 # Flujo de trabajo
+
 ## Introducción
 
 ![](http://tecnologiagrafica1.files.wordpress.com/2012/04/tecno-flujo-de-trabajo-001.jpg "Tecno - flujo de trabajo.001")
